@@ -3,7 +3,7 @@ package koschei.models;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Needle7 {
+public class Needle8 {
 
     @Override
     public String toString() {

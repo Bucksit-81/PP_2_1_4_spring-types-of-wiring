@@ -3,7 +3,7 @@ package koschei.models;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Death8 {
+public class Death9 {
 
     @Override
     public String toString() {

@@ -1,10 +1,10 @@
 package koschei.models;
 
-public class Egg6 {
+public class Egg7 {
 
-    private final Needle7 needle;
+    private final Needle8 needle;
 
-    public Egg6(Needle7 needle) {
+    public Egg7(Needle8 needle) {
         this.needle = needle;
     }
 

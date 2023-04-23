@@ -4,12 +4,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Rabbit4 {
+public class Rabbit5 {
 
-    private Duck5 duck;
+    private Duck6 duck;
 
     @Autowired
-    public void setDuck5(Duck5 duck) {
+    public void setDuck5(Duck6 duck) {
         this.duck = duck;
     }
 
